@@ -1,0 +1,10 @@
+name: 'Drupal starter kit module'
+core: 8.x
+type: module
+description: 'base drupal8 starterkit module'
+version: '8.x-1.x-dev'
+dependencies:
+  - node
+  - path
+  - text
+  - user
