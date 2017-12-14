@@ -27,6 +27,7 @@
         "wikimedia/composer-merge-plugin": "dev-master",
         "bower-asset/cropper": "~2.0",
         "bower-asset/dropzone": "~5.0",
+        "fontawesome/fontawesome": "~4.0",
         "drupal/admin_toolbar": "~1.0",
         "drupal/adminimal_admin_toolbar": "~1.0",
         "drupal/adminimal_theme": "~1.0",

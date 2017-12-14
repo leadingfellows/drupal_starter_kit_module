@@ -1,2 +1,22 @@
 {
+  "repositories": [
+    {
+      "type": "package",
+      "package": {
+        "name": "fontawesome/fontawesome",
+        "version": "4.7.0",
+        "type": "drupal-library",
+        "extra": {
+          "installer-name": "fontawesome"
+        },
+        "dist": {
+          "url": "http://fontawesome.io/assets/font-awesome-4.7.0.zip",
+          "type": "zip"
+        },
+        "require": {
+          "composer/installers": "~1.0"
+        }
+      }
+    }
+  ]
 }
