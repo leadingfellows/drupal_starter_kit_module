@@ -10,7 +10,7 @@
           "installer-name": "fontawesome"
         },
         "dist": {
-          "url": "https://fontawesome.io/assets/font-awesome-4.7.0.zip",
+          "url": "http://fontawesome.io/assets/font-awesome-4.7.0.zip",
           "type": "zip"
         },
         "require": {
