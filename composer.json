@@ -24,7 +24,7 @@
         "grasmash/yaml-cli": "^1.0"
     },
     "require": {
-        "wikimedia/composer-merge-plugin": "dev-master",
+        "leadingfellows/drupal_starter_kit_project": "dev-master",
         "bower-asset/cropper": "~2.0",
         "bower-asset/dropzone": "~5.0",
         "drupal/admin_toolbar": "~1.0",
