@@ -107,12 +107,6 @@
             "drupal/media_entity": {
                 "2918172 - Media Entity upgrade -> core fails on absent column revision_uid":
                 "https://www.drupal.org/files/issues/2918172-5.patch"
-            },
-            "drupal/entity_embed": {
-                "2832504 - Send the CKEditor instance ID to the embed.preview route":
-                "https://www.drupal.org/files/issues/2832504-2.patch"
-            },
-            "drupal/entity_block": {
             }
         }
     }
